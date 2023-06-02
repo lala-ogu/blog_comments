@@ -2,6 +2,8 @@
 
 ## [블로그 댓글 설정하기](https://ansohxxn.github.io/blog/utterances/)
 
+## [TIL 자동화](https://lys7aves.tistory.com/26?category=943283)
+
 ## 수정 참고 링크
 - [syh39](https://syh39.github.io/blog/github_blog_setting/)
 - [커스터마이징](https://www.wonseoko.com/jekyll/minimal-mistakes/)
@@ -47,5 +49,3 @@ details 태그 안에는 markdown 작성을 못하므로, liquid 문법을 이�
 - [git-secret 윈도우](https://github.com/sobolevn/git-secret/tree/v0.5.0)
 - [gpg 서명 push](https://funveloper.tistory.com/153)
 
-## TIL 자동화
-- [TIL 자동화](https://seulog.netlify.app/etc/TILGitHubAction/)
